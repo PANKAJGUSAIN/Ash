@@ -167,3 +167,10 @@ This project is focused on learning and implementing:
 - Dockerized development
 - Performance optimization
 - Full-stack integration
+
+# Future Engineering Goals
+
+## Ash UI (Internal Component System)
+
+Build a reusable, accessible, and configurable internal UI system that powers the Ash platform and can later be extracted into a standalone reusable library.
+
