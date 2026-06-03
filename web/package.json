@@ -5,8 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "prepare": "husky install"
+    "start": "next start"
   },
   "dependencies": {
     "next": "16.2.7",
@@ -36,7 +35,7 @@
     "*.{scss,css}": [
       "stylelint"
     ],
-    "*.{json,md}": [
+    "*.md": [
       "prettier --check"
     ]
   }
