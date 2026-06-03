@@ -4,7 +4,6 @@ export const Footer = () => {
   console.log("Footer rendered");
   console.log("Footer styles", styles);
   console.log("Footer className", styles.footer);
-  console.log("test");
 
   return (
     <footer className={styles.footer}>
