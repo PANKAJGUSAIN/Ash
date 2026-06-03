@@ -3,7 +3,6 @@ import styles from "./footer.module.scss";
 export const Footer = () => {
   console.log("Footer rendered");
   console.log("Footer styles", styles);
-  console.log("Footer styles.footer", styles.footer);
 
   return (
     <footer className={styles.footer}>
