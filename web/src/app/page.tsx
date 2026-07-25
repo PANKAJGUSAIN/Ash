@@ -5,6 +5,16 @@ export default function Home() {
     <>
       <main>
         <h1>Ash</h1>
+        <nav>
+          <ul>
+            <li>
+              <a href="/dashboard">Dashboard</a>
+            </li>
+            <li>
+              <a href="/projects">Projects</a>
+            </li>
+          </ul>
+        </nav>
       </main>
 
       <Footer />
